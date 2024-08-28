@@ -12,4 +12,5 @@ Meu nome é Ana Laura Furcin
 
 @ana-laura-furcin
 
-![descrição do GIF](link GIF do Tenor)
+![cute-cat](https://github.com/user-attachments/assets/6f15a4a1-595e-442d-bc61-0d584fc5d815)
+
